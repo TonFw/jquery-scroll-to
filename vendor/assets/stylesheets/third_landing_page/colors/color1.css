@@ -1,0 +1,164 @@
+
+.th-btn-default:focus,
+.th-btn-default:active,
+.th-btn-default:hover,
+.owl-theme .owl-controls .owl-pagination .owl-page.active span,
+.tes-thumb-ctrl-lists li a .tes-thumb-overlay,
+.download-buttons a:hover,
+.thumb-slides-controller a,
+.main-footer .footer-social li a:hover,
+.feature-lists-style-one .feature-list .icon-area,
+.item-info-wrap,
+.blog-pagination .pagination li.active a,
+.blog-pagination .pagination li.active a:hover,
+.tagcloud a:hover,
+.overlay-brand,
+.single-pricing-table .th-btn,
+.contact .contact-location-toggle-btn,
+.cu-form input[type="submit"],
+.cu-form input[type="submit"]:focus,
+.cu-form input[type="submit"]:active,
+.cu-form input[type="submit"]:hover,
+.contact-info .contact-info-lists li a:hover span,
+.main-footer .footer-social li a:hover,
+.btn-plain:hover,
+.main-header.mobileBG {
+    background-color: #3f51b5;
+}
+
+
+.single-blog-post .blog-post-title-permalink:hover,
+.single-blog-post .blog-post-meta a:hover,
+.single-blog-post .blog-post-bottom-meta a:hover,
+.single-blog-post .blog-post-bottom-meta a.favorite-link.active,
+.single-blog-post .blog-post-bottom-meta a.favorite-link:hover,
+.twitter-header .twitter-icon,
+.twitter-header .twitter-title,
+#allTweets .single-tweet .tweet-text a,
+#allTweets .single-tweet .tweet-controlls a:hover,
+.contact-info .contact-info-lists li a:hover,
+.feature-common-style.extend .feature-title,
+.team-theme-02 .social li a:hover,
+.statistics-02 .number,
+.blog-pagination .pagination li a:active,
+.blog-pagination .pagination li a:focus,
+.blog-pagination .pagination li a:hover,
+.single-blog-post-content a,
+.com-title a,
+.author a,
+.lp-content .title a:hover,
+.boderd-list li:hover:before,
+.boderd-list li:hover a,
+.category-list li:hover span,
+.slider-arrow:hover,
+.header-mobile-screen .bar-area a,
+.header-mobile-screen .menu li:hover a,
+.header-mobile-screen .menu li:focus a,
+.header-mobile-screen .menu li.current a,
+.header-big-screen .menu li a:hover,
+.header-big-screen .menu li a:focus,
+.header-big-screen .menu li a:active,
+.header-big-screen .menu li.current a,
+.banner .icons a.active,
+.banner .icons a:hover,
+.feature-style-01 .inner-box i,
+.content ul li:before,
+.single-testimonial blockquote cite span,
+.offer-content .offer-abs-bg .big-font,
+.offer-content h2 span,
+.offer-content h3 span,
+.download-buttons .left-area *,
+.th-btn-transparent:focus,
+.th-btn-transparent:active,
+.th-btn-transparent:hover,
+.small-menu .header-big-screen .menu li a:hover,
+.small-menu .header-big-screen .menu li.current a,
+.s-f-top i,
+.app-reasion-lists li a .left-area i,
+.statistics-01 .number,
+.single-blog-post-meta a.favourite-link.active .top,
+.single-blog-post-meta a:hover .top,
+.single-testimonial .thumb-icon-area,
+.pricing-table-style-one.best .th-btn,
+#allTweets .single-tweet .tweet-controlls a i,
+.contact-info .contact-info-lists li a span i,
+.cu-form .form-message.success,
+.mailchimp-form-message.success,
+.main-footer .footer-social li a,
+.btn-plain,
+.comment-meta .comment-reply,
+.single-team .info-area-bottom .t-m-designation {
+    color: #3f51b5;
+}
+
+
+
+.overlay-one {
+    background: rgba(63, 81, 181, 0.8);
+}
+
+.overlay-two {
+    background-color: rgba(8, 8, 8, .90);
+}
+
+.overlay-three {
+    background-color: rgba(0, 0, 0, .92);
+}
+
+.overlay-four {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.overlay-five {
+    background-color: #111;
+}
+
+.color-brand {
+    color: #3f51b5 !important;
+}
+
+.bg-brand {
+    background-color: #3f51b5 !important;
+}
+
+.input-text:focus,
+.header-big-screen .menu li .sub-menu li:first-child,
+.feature-common-style:hover .outer-box,
+.menu li a:hover,
+.preloader-wrapper .spinner-layer,
+.menu li .sub-menu,
+.menu li.current a {
+    border-color: #3f51b5;
+}
+
+.feature-common-style:hover .inner-box {
+    background: #3f51b5;
+    border-color: transparent;
+}
+
+.feature-style-01 .inner-box {
+    border: 1px solid #3f51b5;
+    border-radius: 50%;
+}
+
+.team-theme-01 .social li a:hover,
+.app-reasion-lists li a:hover .left-area,
+.app-reasion-lists li.active a .left-area,
+.app-reasion-lists li.active a:hover .left-area {
+    border-color: #3f51b5;
+    background-color: #3f51b5;
+}
+
+
+.cu-form input:focus,
+.cu-form textarea:focus {
+    border-color: #3f51b5;
+}
+
+
+
+
+input[type=text]:focus:not([readonly]), input[type=password]:focus:not([readonly]), input[type=email]:focus:not([readonly]), input[type=url]:focus:not([readonly]), input[type=time]:focus:not([readonly]), input[type=date]:focus:not([readonly]), input[type=datetime-local]:focus:not([readonly]), input[type=tel]:focus:not([readonly]), input[type=number]:focus:not([readonly]), input[type=search]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #3f51b5;
+    box-shadow: 0 1px 0 0 #3f51b5;
+}

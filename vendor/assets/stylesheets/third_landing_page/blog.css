@@ -1,0 +1,168 @@
+/* ===================================================
+   Apppick All Blog styles
+
+   TOC : 
+	1. All Blog Page
+	2. All Blog Page Responsive
+
+====================================================== */
+
+
+
+
+
+/* ====================================================
+   All Blog Page
+=======================================================*/
+
+.blog-banner-area {
+	background-image: url('../../img/blog-header-bg.jpg');
+	margin-top: 75px;
+	margin-bottom: 60px;
+}
+.blog-banner-area .overlay {
+	opacity: .8;
+	filter: alpha(opacity=80);
+}
+
+.blog-banner-area .section-space {
+	padding: 80px 0px 75px;
+}
+.blog-banner-area .section-space .page-title {
+	font-size: 40px;
+	font-weight: 900;
+	text-transform: uppercase;
+	line-height: 1.2;
+	margin: 0;
+}
+
+.single-blog-post .blog-post-bottom-meta.read-more .favorite-link {
+	margin-top: 3px;
+}
+
+.bottom-space {
+	margin-bottom: 120px;
+}
+
+.blog-posts {
+	box-shadow: 0px 1px 0px #eee, 0px 2px 0px #fff;
+}
+
+.all-blog-section {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.all-blog-section .single-blog-post .blog-post-content {
+	margin-bottom: 25px;
+}
+
+.blog-masonry-full {
+	width: 100%;
+	max-width: 1920px;
+}
+.blog-masonry-full .single-post {
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 20%;
+}
+
+.blog-pagination {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.blog-pagination .pagination {
+	margin: 30px auto;
+	display: table;
+}
+.blog-pagination .pagination li {
+	display: inline-block;
+	margin: 3px;
+	width: 38px;
+	height: 38px;
+}
+
+.blog-pagination .pagination li a {
+	border: none;
+	color: #444;
+	float: none;
+	font-size: 13px;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	line-height: 38px;
+	border-radius: 2px;
+}
+.blog-pagination .pagination li i {
+	font-size: 13px;
+	color: #444;
+}
+
+.blog-pagination .pagination li.active a,
+.blog-pagination .pagination li.active a:active,
+.blog-pagination .pagination li.active a:focus,
+.blog-pagination .pagination li.active a:hover {
+    color: #fff;
+}
+
+.blog-pagination .pagination li a:active,
+.blog-pagination .pagination li a:focus,
+.blog-pagination .pagination li a:hover {
+    background-color: #fff;
+}
+
+
+.blog-pagination .pagination li.disabled a,
+.blog-pagination .pagination li.disabled a:active,
+.blog-pagination .pagination li.disabled a:focus,
+.blog-pagination .pagination li.disabled a:hover {
+    background-color: transparent !important;
+}
+
+.blog-pagination .pagination li.disabled a {
+	cursor: not-allowed;
+}
+
+
+
+
+
+
+
+
+
+/* ====================================================
+   All Blog Page Responsive
+=======================================================*/
+
+
+
+
+@media (max-width: 1510px) {
+	.blog-masonry-full .single-post {
+		width: 25%;
+	}
+}
+
+@media (max-width: 1130px) {
+	.blog-masonry-full .single-post {
+		width: 33.33%;
+	}
+}
+
+@media (max-width: 800px) {
+	.blog-masonry-full .single-post {
+		width: 50%;
+	}
+	.blog-masonry-full .single-blog-post {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+}
+
+@media (max-width: 550px) {
+	.blog-masonry-full .single-post {
+		width: 100%;
+	}
+}
