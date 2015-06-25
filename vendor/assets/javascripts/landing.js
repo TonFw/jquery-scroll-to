@@ -1,6 +1,6 @@
 // GEM third_vendor
 //=require third_landing_page/vendor/bootstrap.min
-//=require third_landing_page/vendor/datectmobilebrowser
+//=require third_landing_page/vendor/detectmobilebrowser.min
 //=require third_landing_page/vendor/html5shiv
 //=require third_landing_page/vendor/isotope.pkgd.min
 //=require third_landing_page/vendor/jquery.ajaxchimp.min
