@@ -1,0 +1,24 @@
+/**
+ * GEM Colors
+ *= require third_landing_page/colors/color1.css
+ *= require third_landing_page/colors/color2.css
+ *= require third_landing_page/colors/color3.css
+ *= require third_landing_page/colors/color4.css
+ *= require third_landing_page/colors/color4.css
+ *= require third_landing_page/colors/color5.css
+ *= require third_landing_page/colors/color6.css
+ *= require third_landing_page/colors/color7.css
+ *= require third_landing_page/colors/color8.css
+ *
+ * GEM third
+ *= require third_landing_page/animate.min
+ *= require third_landing_page/blog
+ *= require third_landing_page/blog-single
+ *= require third_landing_page/bootstrap.min
+ *= require third_landing_page/ionicons.min
+ *= require third_landing_page/main
+ *= require third_landing_page/owl.carousel
+ *= require third_landing_page/owl.theme
+ *= require third_landing_page/owl.transitions
+ *= require third_landing_page/responsive
+**/
